@@ -35,26 +35,6 @@ For further information on what is supported by GitHub and what's managed by the
 
 ARC documentation is available on [docs.github.com](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners-with-actions-runner-controller/quickstart-for-actions-runner-controller).
 
-### Legacy documentation
-
-The following documentation is for the legacy autoscaling modes that continue to be maintained by the community
-
-- [Quickstart guide](/docs/quickstart.md)
-- [About ARC](/docs/about-arc.md)
-- [Installing ARC](/docs/installing-arc.md)
-- [Authenticating to the GitHub API](/docs/authenticating-to-the-github-api.md)
-- [Deploying ARC runners](/docs/deploying-arc-runners.md)
-- [Adding ARC runners to a repository, organization, or enterprise](/docs/choosing-runner-destination.md)
-- [Automatically scaling runners](/docs/automatically-scaling-runners.md)
-- [Using custom volumes](/docs/using-custom-volumes.md)
-- [Using ARC runners in a workflow](/docs/using-arc-runners-in-a-workflow.md)
-- [Managing access with runner groups](/docs/managing-access-with-runner-groups.md)
-- [Configuring Windows runners](/docs/configuring-windows-runners.md)
-- [Using ARC across organizations](/docs/using-arc-across-organizations.md)
-- [Using entrypoint features](/docs/using-entrypoint-features.md)
-- [Deploying alternative runners](/docs/deploying-alternative-runners.md)
-- [Monitoring and troubleshooting](/docs/monitoring-and-troubleshooting.md)
-
 ## Contributing
 
 We welcome contributions from the community. For more details on contributing to the project (including requirements), please refer to "[Getting Started with Contributing](https://github.com/actions/actions-runner-controller/blob/master/CONTRIBUTING.md)."
